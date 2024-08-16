@@ -47,8 +47,11 @@ Replace the text variable with the text you want to analyze.
 Run the script to see the detected emotions in the console.
 
 Example:
+
 text = "I'm feeling really happy today!"
+
 result = emotion_detector(text)
+
 if result:
     print(result)
 
