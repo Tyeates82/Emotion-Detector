@@ -65,11 +65,15 @@ This will output something like:
     "sadness": 0.05,
     "dominant_emotion": "joy"
 }
+
 Contributing
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and passes all tests.
 
 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
+
 For any inquiries, please contact [Your Name] at [Your Email].
